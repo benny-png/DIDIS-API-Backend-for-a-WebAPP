@@ -1,4 +1,4 @@
-```markdown
+
 # User Verification API
 
 This project is a FastAPI-based API for user registration and verification using facial recognition.
